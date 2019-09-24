@@ -21,5 +21,6 @@ From the shell copy the commands your entered in the shell to create the instanc
 
 
 ============================
+
 Copy the shell commands you used here!
 
